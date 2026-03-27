@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 # 💫 About Me:
 🚀 Full-Stack Developer | MERN Stack Enthusiast | Building Intelligent Systems  <br>I'm a recent BTech graduate in ECE (2025) from IPU MSIT, actively building scalable, real-world applications using Node.js, React, Express, MongoDB, and Python.  <br>Currently developing an Uber clone with predictive analytics, OTP login, and role-based dashboards — designed for deployment using cloud and industry relevance.  <br>Passionate about clean architecture, cloud-ready code, and solving real problems with tech.  <br>Open-source contributor | Learning DevOps & ML integration.<br>Let’s build the future — one line of code at a time.<br>
